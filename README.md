@@ -2,7 +2,7 @@
 
 This repository contains my **fifth project** from the **Applied Data Science Lab at WorldQuant University**, where I developed a **machine learning model to predict bankruptcy** for companies based on real-world financial data from Poland (for lessons) and Taiwan (for the final assignment).  
 
-## 📌 **Project Overview**
+##  **Project Overview**
 The goal of this project was to build a model that predicts whether a company is likely to go bankrupt, using its financial metrics.  
 This project required applying the **entire data science workflow** — from data ingestion to model deployment.  
 
@@ -15,7 +15,7 @@ Key objectives included:
 
 ---
 
-## 🛠 **Key Steps**
+##  **Key Steps**
 ### 1. Data Wrangling
 - Loaded compressed JSON data (`.gz`) and created a clean DataFrame with company IDs as the index.
 - Checked for missing values and handled NaNs.
@@ -47,14 +47,14 @@ Key objectives included:
 
 ---
 
-## 📊 **Visualizations**
+##  **Visualizations**
 - **Class Balance Chart** – confirmed dataset imbalance before resampling.
 - **Confusion Matrix** – assessed model performance visually.
 - **Feature Importance Plot** – highlighted most influential features.
 
 ---
 
-## 🚀 **Tech Stack**
+##  **Tech Stack**
 - **Python**, **Pandas**, **NumPy**
 - **scikit-learn** (RandomForest, GridSearchCV, classification metrics)
 - **matplotlib**, **seaborn** for visualization
@@ -62,7 +62,7 @@ Key objectives included:
 
 ---
 
-## ✨ **Key Learnings**
+##  **Key Learnings**
 - Learned **how to handle highly imbalanced datasets** effectively for rare events.
 - Improved understanding of **hyperparameter tuning** with GridSearchCV.
 - Strengthened model deployment skills with a reproducible **prediction pipeline**.
@@ -70,11 +70,11 @@ Key objectives included:
 
 ---
 
-## 📢 **Acknowledgments**
+##  **Acknowledgments**
 This project is part of the **WorldQuant University – Applied Data Science Lab**.
 
 ---
 
-## 🔗 Connect
+##  Connect
 If you have feedback or ideas on improving this model, feel free to connect with me on linkedin or open an issue in this repo!
 
